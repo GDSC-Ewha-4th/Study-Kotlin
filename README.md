@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba7c31f6-d751-446c-9a19-784bf9df4b26/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221008T070305Z&X-Amz-Expires=86400&X-Amz-Signature=7c0c64c7d8e50252a188340c37a6c5911c65fa35c302b787bfd52c0460e8e999&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" height="200"></td><td>
+    <td><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba7c31f6-d751-446c-9a19-784bf9df4b26/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221105%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221105T122622Z&X-Amz-Expires=86400&X-Amz-Signature=218c85d0de66589f56ad397e4dfe9590614d9abbfce3ae6e50308e2e1e86836c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" height="200"></td><td>
 <div>
 
  스터디 커리큘럼은 `Kotlin`  도서로 가장 유명한 **Kotlin in action**의 목차에 맞춰 진행됩니다.
