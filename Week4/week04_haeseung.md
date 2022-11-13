@@ -41,8 +41,7 @@ class Kia(private val premiumCar: Car) : Car{
 	override fun manufacture() = premiumCar.manufacture()
 } //클래스의 모든 내용이 다 상속받는 내용밖에 없기 때문에, 굳이 보일러플레이트 코드로 만들 필요가 없다.
 
-class DelegatedKia(premiumCar: Car) : Car by premiumCar
-********************************************************************//한 줄로 간단하게 모두 위임할 수 있다.
+class DelegatedKia(premiumCar: Car) : Car by premiumCar //한 줄로 간단하게 모두 위임할 수 있다.
 ```
 
 ## #동반 객체
