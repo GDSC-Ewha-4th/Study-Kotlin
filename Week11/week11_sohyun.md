@@ -137,17 +137,20 @@ class ExposedGettingStarted {
 ```
 
 > 코드 설명
-Payments객체에 테이블 정보를 작성 하여 테이블을 생성하여 Insert, Select, Update, Delete를 하고 테이블을 Drop 한다.
+: Payments객체에 테이블 정보를 작성 하여 테이블을 생성하여 Insert, Select, Update, Delete를 하고 테이블을 Drop 한다.
+
 
 SQL를 매핑한 DSL 방식으로 코틀린 코드 베이스로 SQL을 조작할 수 있다.
 
-위는 DSL을 사용한 것인데 DSL은 QueryDSL 처럼 작동한다. 
-- 그런데 여기서는 컴파일러가 만들어주지 않고 QClass를 직접 선언해서 사용한다.
+
+위는 DSL을 사용한 것인데 DSL은 QueryDSL 처럼 작동한다. 그런데 여기서는 컴파일러가 만들어주지 않고 QClass를 직접 선언해서 사용한다.
+
 
 그리고 우리가 흔하게 사용하는 JPA와 비슷한 기능을 DAO Exposed에서 제공하는데, jpa와 달리 eager이 바로 join query 하나만 사용하는 것은 아니고, 메인 엔티티 조회 시 참조 객체를 가져오는 쿼리를 깥이 수행한다. 다건 조회의 경우에는 추가 in 절 쿼리를 수행하여 n+1을 방지한다.
 
 
 Exposed의 깃허브는 [이 링크](https://github.com/JetBrains/Exposed)에서 확인해볼 수 있다.
+
 
 ## Querydsl은?
 
