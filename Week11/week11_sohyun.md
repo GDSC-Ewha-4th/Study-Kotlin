@@ -20,6 +20,7 @@
 # 과제!
 ## 3. 섹션 11.4.3. SQL을 위한 internal DSL - Exposed 살펴보기!
 
+아쉽게도 Exposed는 레퍼런스 할 만한 자료들이 많지 않아서 QueryDSL도 함께 살펴보았다.
 
 # Exposed 란 ?
 
