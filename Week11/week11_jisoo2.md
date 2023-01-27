@@ -8,10 +8,10 @@ https://github.com/Kotlin/anko 를 참조하여 Anko 라이브러리에 대해 �
  
 
 ***Anko 의 구성***은 총 네 가지로, 아래와 같다.
-Anko Commons: 인텐트, 다이얼로그, 로그 등을 편리하게 사용하는 라이브러리
-Anko Layouts: 안드로이드 레이아웃을 코드로 쉽게 작성하는 라이브러리
-Anko SQLite: SQLite를 쉽게 사용하는 라이브러리
-Anko Coroutions: 코루틴을 쉽게 사용하는 라이브러리
+- Anko Commons: 인텐트, 다이얼로그, 로그 등을 편리하게 사용하는 라이브러리
+- Anko Layouts: 안드로이드 레이아웃을 코드로 쉽게 작성하는 라이브러리
+- Anko SQLite: SQLite를 쉽게 사용하는 라이브러리
+- Anko Coroutions: 코루틴을 쉽게 사용하는 라이브러리
  
 ***Anko 라이브러리 추가하기***
 1. Anko의 모든 구성 요소를 한 번에 추가하려면 아래와 같은 코드를 사용한다.
