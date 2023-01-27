@@ -20,3 +20,5 @@
 ## 3. 섹션 11.4.3. SQL을 위한 internal DSL 
 
 대표적인 프레임워크로는 Exposed가 있다. 다음 링크를 참고해보면 좋을 것 같다. https://thisdev.tistory.com/9
+
+내가 궁금한 내부 DSL을 정리해 올 예정이다!
